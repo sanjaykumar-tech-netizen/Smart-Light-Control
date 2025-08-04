@@ -42,5 +42,14 @@ ESP32 (optional, if using WiFi simulation)
 Connect LED to pin 13 (through resistor to GND)
 
 
+<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/1e332c18-b4e3-4598-b069-5e0c6db423e8" />
+<img width="1917" height="921" alt="Image" src="https://github.com/user-attachments/assets/f3bfc49d-c66d-456e-a6aa-50bbb3d89004" />
+
+
+
+
+
+
+
 
 
