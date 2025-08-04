@@ -10,10 +10,12 @@ DOMAIN:Internet Of Things
 
 DURATION:4 WEEKS
 
-MENTOR:Neela Santhosh✅ Task 1: Smart Light Control
+MENTOR:Neela Santhosh
 
 
 DESCRIPTION:
+
+✅ Task 1: Smart Light Control
 
 Goal: Control an LED using a microcontroller (Arduino) and a mobile app.
 
