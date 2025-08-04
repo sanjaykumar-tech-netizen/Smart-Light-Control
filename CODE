@@ -1,0 +1,20 @@
+int ledPin = 13; // Built-in LED or external LED on pin 13
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(ledPin, OUTPUT);
+  Serial.println("Type 1 to ON, 0 to OFF");
+}
+
+void loop() {
+  if (Serial.available() > 0) {
+    char input = Serial.read();
+    if (input == '1') {
+      digitalWrite(ledPin, HIGH);
+      Serial.println("LED ON");
+    } else if (input == '0') {
+      digitalWrite(ledPin, LOW);
+      Serial.println("LED OFF");
+    }
+  }
+}
